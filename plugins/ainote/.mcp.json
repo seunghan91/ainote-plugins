@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ainote": {
+      "type": "http",
+      "url": "https://api.ainote.dev/api/mcp",
+      "headers": {
+        "Authorization": "McpKey ${AINOTE_API_KEY}"
+      }
+    }
+  }
+}

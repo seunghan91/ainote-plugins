@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "ainote",
+  "owner": {
+    "name": "AI Note Team",
+    "email": "support@ainote.app",
+    "url": "https://github.com/seunghan91/ainote-plugins"
+  },
+  "metadata": {
+    "description": "AI Note plugins for Claude Code — tasks, notes, session handoffs, and team dev docs over the ainote remote MCP."
+  },
+  "plugins": [
+    {
+      "name": "ainote",
+      "source": "./plugins/ainote",
+      "description": "AI Note — tasks, notes, session handoffs, and team dev docs for coding agents via remote MCP",
+      "version": "1.3.2",
+      "author": {
+        "name": "AI Note Team"
+      },
+      "homepage": "https://docs.ainote.dev",
+      "license": "MIT",
+      "keywords": [
+        "mcp",
+        "tasks",
+        "task-management",
+        "dev-docs",
+        "claude-md",
+        "memory",
+        "session-handoff",
+        "multi-device-sync"
+      ]
+    }
+  ]
+}

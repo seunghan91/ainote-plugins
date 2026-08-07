@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ainote",
+  "displayName": "AI Note",
+  "version": "1.3.2",
+  "description": "AI Note — tasks, notes, session handoffs, and team dev docs for coding agents via remote MCP",
+  "author": {
+    "name": "AI Note Team",
+    "email": "support@ainote.app",
+    "url": "https://github.com/seunghan91/ainote-plugins"
+  },
+  "homepage": "https://docs.ainote.dev",
+  "repository": "https://github.com/seunghan91/ainote-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "tasks",
+    "task-management",
+    "dev-docs",
+    "claude-md",
+    "memory",
+    "session-handoff",
+    "multi-device-sync",
+    "productivity"
+  ]
+}
